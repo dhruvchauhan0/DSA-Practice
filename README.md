@@ -38,4 +38,12 @@ For learning purposes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0169-majority-element/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0050-powx-n/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
