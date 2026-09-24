@@ -13,6 +13,7 @@ For learning purposes
 | [0136-single-number](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +68,9 @@ For learning purposes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
