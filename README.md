@@ -9,6 +9,7 @@ For learning purposes
 | [0011-container-with-most-water](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0075-sort-colors](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0169-majority-element/) | Easy |
@@ -35,6 +36,7 @@ For learning purposes
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -56,6 +58,7 @@ For learning purposes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0075-sort-colors](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +76,12 @@ For learning purposes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
