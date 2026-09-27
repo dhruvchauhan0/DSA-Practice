@@ -61,6 +61,7 @@ For learning purposes
 | [0011-container-with-most-water](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0031-next-permutation](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
+| [0344-reverse-string](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0344-reverse-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,4 +87,8 @@ For learning purposes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
