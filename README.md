@@ -63,6 +63,7 @@ For learning purposes
 | [0031-next-permutation](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0567-permutation-in-string/) | Medium |
 ## Greedy
@@ -94,6 +95,7 @@ For learning purposes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0567-permutation-in-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
