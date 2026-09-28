@@ -34,6 +34,7 @@ For learning purposes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0169-majority-element/) | Easy |
+| [0567-permutation-in-string](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0567-permutation-in-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ For learning purposes
 | [0075-sort-colors](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0344-reverse-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0567-permutation-in-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +95,7 @@ For learning purposes
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0344-reverse-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0567-permutation-in-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -102,4 +105,8 @@ For learning purposes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
