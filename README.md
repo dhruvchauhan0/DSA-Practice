@@ -52,6 +52,7 @@ For learning purposes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0050-powx-n/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
