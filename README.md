@@ -51,6 +51,7 @@ For learning purposes
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0007-reverse-integer/) | Medium |
 | [0050-powx-n](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0050-powx-n/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
