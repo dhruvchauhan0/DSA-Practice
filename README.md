@@ -10,6 +10,7 @@ For learning purposes
 | [0031-next-permutation](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0136-single-number/) | Easy |
@@ -81,6 +82,7 @@ For learning purposes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Ternary Search
 | Problem Name | Difficulty |
@@ -115,4 +117,8 @@ For learning purposes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0567-permutation-in-string/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
