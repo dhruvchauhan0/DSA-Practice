@@ -6,6 +6,7 @@ For learning purposes
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0031-next-permutation](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -37,6 +38,7 @@ For learning purposes
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0169-majority-element/) | Easy |
 | [0567-permutation-in-string](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0567-permutation-in-string/) | Medium |
 ## Sorting
