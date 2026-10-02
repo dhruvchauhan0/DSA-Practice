@@ -22,6 +22,7 @@ For learning purposes
 | [0238-product-of-array-except-self](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Bit Manipulation
@@ -45,6 +46,7 @@ For learning purposes
 | ------- | ------- |
 | [0001-two-sum](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0169-majority-element/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0567-permutation-in-string/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Sorting
@@ -95,6 +97,7 @@ For learning purposes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
