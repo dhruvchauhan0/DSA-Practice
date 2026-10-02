@@ -10,6 +10,7 @@ For learning purposes
 | [0031-next-permutation](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -115,6 +116,7 @@ For learning purposes
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -123,6 +125,7 @@ For learning purposes
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
