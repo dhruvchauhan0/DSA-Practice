@@ -8,6 +8,7 @@ For learning purposes
 | ------- | ------- |
 | [0001-two-sum](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
@@ -48,6 +49,7 @@ For learning purposes
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0169-majority-element/) | Easy |
 ## Counting
@@ -73,6 +75,7 @@ For learning purposes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0125-valid-palindrome/) | Easy |
