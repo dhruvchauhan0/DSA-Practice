@@ -19,12 +19,14 @@ For learning purposes
 | [0169-majority-element](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0136-single-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +77,7 @@ For learning purposes
 | [0075-sort-colors](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0567-permutation-in-string/) | Medium |
@@ -92,6 +95,7 @@ For learning purposes
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Ternary Search
 | Problem Name | Difficulty |
@@ -134,4 +138,12 @@ For learning purposes
 | [0074-search-a-2d-matrix](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
