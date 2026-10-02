@@ -20,6 +20,7 @@ For learning purposes
 | [0238-product-of-array-except-self](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@ For learning purposes
 | [0001-two-sum](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0169-majority-element/) | Easy |
 | [0567-permutation-in-string](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0567-permutation-in-string/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +62,7 @@ For learning purposes
 | [0007-reverse-integer](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0050-powx-n/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,4 +133,5 @@ For learning purposes
 | [0054-spiral-matrix](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 <!---LeetCode Topics End-->
