@@ -41,6 +41,7 @@ For learning purposes
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0509-fibonacci-number](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,11 +71,13 @@ For learning purposes
 | [0007-reverse-integer](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0050-powx-n/) | Medium |
+| [0509-fibonacci-number](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0050-powx-n/) | Medium |
+| [0509-fibonacci-number](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,4 +158,8 @@ For learning purposes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/dhruvchauhan0/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
